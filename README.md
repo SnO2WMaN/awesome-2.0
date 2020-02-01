@@ -12,3 +12,4 @@ _[Web 2.0 - Wikipedia](https://ja.wikipedia.org/wiki/Web_2.0)_
 ## Contents
 
 - [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+- [お金 2.0](https://www.gentosha.co.jp/book/b11283.html)
